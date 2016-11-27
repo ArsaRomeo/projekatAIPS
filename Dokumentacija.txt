@@ -1,0 +1,20 @@
+
+
+
+Projekat iz Arhitektura i projektovanje softvera
+
+
+14604 Milos Arsic
+14781 Marko Milusev
+
+1. Ideja
+
+Projekat ce omoguciti korisnicima da ucestvuju u igri koja se zove Pictionary i da pogadjanjem odredjenog pojma postanu osoba koja crta. Korisnicima ce biti omogudjen alat kao sto su krugovi, pravougaonici, razlicite vrste linija i jos dodatna sredstva. Sve slike ce se pamtiti u posebnim grupama u zavisnosti da li su osobe, predmeti, zivotinje ili nesto drugo.
+
+2. Alat i Framework
+
+Koristice se ekstenzija Visual Studio SDK, MySQL baza, i Entity Framework kao ORM.
+
+3. Rad na projektu
+
+Oba clana ce veci deo vremena raditi iste zadatke. Ako dodje do neke podele bice napisano dodatno.
